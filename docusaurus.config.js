@@ -1,44 +1,33 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'TurboWarp Documentation',
-  url: 'https://docs.turbowarp.org',
-  baseUrl: '/',
+  title: 'PotentiaMod Documentation',
+  url: 'https://Potentiamod.github.io',
+  baseUrl: '/docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  organizationName: 'TurboWarp',
+  organizationName: 'PotentiaMod',
   projectName: 'docs',
   trailingSlash: false,
   themeConfig: {
     navbar: {
-      title: 'TurboWarp Documentation',
+      title: 'PotentiaMod Documentation',
       items: [
         {
-          href: '/packager/',
-          label: 'Packager',
+          href: 'https://types.turbowarp.org/',
+          label: 'Type Reference',
           position: 'left'
         },
         {
-          href: '/development/',
-          label: 'Development',
-          position: 'left'
-        },
-        {
-          href: 'https://turbowarp.org/',
-          label: 'TurboWarp',
+          href: 'https://potentiamod.github.io/',
+          label: 'PotentiaMod',
           position: 'right'
         },
         {
-          href: 'https://github.com/TurboWarp',
+          href: 'https://github.com/PotentiaMod',
           label: 'GitHub',
           position: 'right',
         },
       ],
-    },
-    algolia: {
-      // This is all supposed to be public
-      appId: 'HORQ9E5CCA',
-      apiKey: 'c3873ce4208edb896a31bb3e7c2cbdad',
-      indexName: 'turbowarp'
     },
     colorMode: {
       respectPrefersColorScheme: true,
@@ -46,6 +35,8 @@ module.exports = {
     prism: {
       theme: require('./code-themes/light'),
       darkTheme: require('./code-themes/dark'),
+      midnightTheme: require('./code-themes/midnight'),
+      additionalLanguages: ['json']
     },
   },
   presets: [
