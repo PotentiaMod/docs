@@ -1,7 +1,7 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'PotentiaMod Documentation',
-  url: 'https://Potentiamod.github.io',
+  url: 'https://potentiamod.github.io',
   baseUrl: '/docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
