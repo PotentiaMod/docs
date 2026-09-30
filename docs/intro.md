@@ -4,18 +4,15 @@ title: Intro
 hide_table_of_contents: true
 ---
 
-# TurboWarp Documentation
+# PotentiaMod Documentation
 
-[TurboWarp](https://turbowarp.org/) is a mod of Scratch with improved performance, dark mode, addons, and more. This is the place where its extra documentation goes.
+[PotentiaMod](https://turbowarp.org/) is a mod of [TurboWarp](https://turbowarp.org) with specfied gui colors, the ability to remove extensions and even more addons, and more. This is the place where its extra documentation goes.
 
 Related projects:
 
- - [TurboWarp Desktop](https://desktop.turbowarp.org/)
- - [TurboWarp Packager](https://packager.turbowarp.org/)
- - [TurboWarp Unpackager](https://turbowarp.github.io/unpackager/)
- - [TurboWarp Extension Gallery](https://extensions.turbowarp.org/)
- - [sb3fix](https://turbowarp.github.io/sb3fix/)
- - [sb-downloader](https://forkphorus.github.io/sb-downloader/)
- - [forkphorus](https://forkphorus.github.io/)
+ - [PotentiaMod Packager](https://potentiamod.github.io/packager/)
+ - [PotentiaMod Packager](https://potentiamod.github.io/pot-desktop)
+ - [PotentiaMod Extension Bonanza!](https://potentiamod.github.io/extensions/)
+ - [PotentiaMod Extension Gallery](https://potentiamod.github.io/pot-extensions/)
 
-These pages are [open source](https://github.com/TurboWarp/docs). Contributions are welcome.
+These pages are [open source](https://github.com/PotentiaMod/docs). You can fork this to make your own!
